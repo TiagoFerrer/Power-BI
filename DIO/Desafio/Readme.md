@@ -30,6 +30,7 @@ a) Alterado para o tipo texto
 | Funcionario | Dno |
 | Projeto | Dnum |
 | Works_On | Pno |
+
 b) Alterado para o tipo número decimal fixo
 | **Tabela** | **Coluna** |
 |---|---|
